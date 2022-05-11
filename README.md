@@ -11,9 +11,6 @@
 <p align="left">
 </p>
 
-<h3 align="left">Frontend:</h3>
-HTML, JavaScript, TypeScript, CSS (SASS), Bootstrap, Vue.js, Chart.js.
-
 <h3 align="left">Backend:</h3>
 PHP, Node.Js (JavaScript, TypeScript).
 
@@ -26,11 +23,17 @@ PHP, Node.Js (JavaScript, TypeScript).
 <h3 align="left">Cache:</h3>
 REDIS, Memcached, Memcache.
 
+<h3 align="left">Frontend:</h3>
+HTML, JavaScript, TypeScript, CSS (SASS), Bootstrap, Vue.js, Chart.js.
+
 <h3 align="left">Testing:</h3>
 Jest, Cypress, PHPUnit.
 
+<h3 align="left">Bundlers:</h3>
+Webpack, Gulp.
+
 <h3 align="left">Devops:</h3>
-Jenkins, Bash, Prometheus, Grafana, Alertmanager, Webpack, Gulp.
+Jenkins, Bash, Prometheus, Grafana, Alertmanager.
 
 <br/>   
 <p></p>
