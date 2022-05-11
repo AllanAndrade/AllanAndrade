@@ -15,7 +15,7 @@
 HTML, JavaScript, TypeScript, CSS (SASS), Bootstrap, Vue.js, Chart.js.
 
 <h3 align="left">Backend:</h3>
-PHP, Node.Js (JavaScript, TypeScript, Express).
+PHP, Node.Js (JavaScript, TypeScript).
 
 <h3 align="left">APIs:</h3>
    Rest, GraphQL.
