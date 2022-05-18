@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allan Andrade</h1>
-<h3 align="center">A passionate full cycle developer from Brazil</h3>
+<h3 align="center">A passionate backend developer from Brazil</h3>
 
 
 
